@@ -2,11 +2,11 @@
 
 **Name : JUNAID AKBAR**
 
-🏠 MIANWALI, PAKISTAN 
-📧 malikjuni70@gmail.com 
-🔗 LINKhttps://www.linkedin.com/in/juanid-akbar/EDIN 
-🔗 https://www.kaggle.com/junaiddata35   
-🔗 https://github.com/Junaid-Akbar35
+- 🏠 MIANWALI, PAKISTAN
+- 📧 malikjuni70@gmail.com 
+- 🔗 LINKhttps://www.linkedin.com/in/juanid-akbar/EDIN 
+- 🔗 https://www.kaggle.com/junaiddata35   
+- 🔗 https://github.com/Junaid-Akbar35
 
 ## SUMMARY
 Powerful and Statistically sound and technically acute Data Science graduate with in-depth expertise in Machine
